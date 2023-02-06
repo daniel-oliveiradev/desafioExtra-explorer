@@ -1,0 +1,52 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+#main{
+  width: 600px;
+  margin: auto;
+}
+
+h1{
+  font-family: 'Dosis', sans-serif;
+  font-weight: normal;
+}
+
+h1 span{
+  font-weight: bold;
+  color: #EE24FF;
+}
+
+p{
+  color: #828282;
+  margin-bottom: 80px
+}
+
+strong{
+  color: #3F3D56
+}
+#flutuar{
+  color: #828282;
+}
+
+.line{
+  width: 391px;
+  margin:auto;
+  border: 1px #ECEFF2 solid;
+  margin-bottom: 16px;
+}
+
+a{
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+#footer a + a{
+  margin-left: 42px;
+}
+
+#wave{
+  margin-top: 42px;
+}
+
